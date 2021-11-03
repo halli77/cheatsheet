@@ -12,3 +12,5 @@
 ### Show curent status of the git repo
 <pre>git status</pre>
 
+### clone a github repository to local machine
+see [docs.github.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
