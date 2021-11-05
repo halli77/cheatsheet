@@ -13,4 +13,5 @@
 <pre>git status</pre>
 
 ### clone a github repository to local machine
+`git clone {URL}`
 see [docs.github.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
