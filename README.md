@@ -1,6 +1,6 @@
 # git
 
-* `git add .`: Ading all unwatches files to the git staging area
+* `git add .`: Ading all unwatched/changed files to the git staging area
 * `git commit -m "my comment"`: Writes staged files into the git repo
 * `git push`: pushes current version to a remote repo (e.g. github)
 * `git status`:  Show curent status of the git repo
