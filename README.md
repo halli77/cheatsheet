@@ -15,3 +15,7 @@
 * `npm install {package}`: installs the named package
 * `npm version {major|minor|patch}`: increments version number in package.json
 * `npm outdated`: shows outdated modules (do this in /home/pi/.node-red/) 
+
+
+# Links
+* [OOP design pattern](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
