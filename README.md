@@ -19,3 +19,4 @@
 
 # Links
 * [OOP design pattern](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
+* [fully-kiosk.com - kiosk browser for fire os](https://www.fully-kiosk.com/)
